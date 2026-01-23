@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hello, I'm Szymon Mrozek!
 
-<!--
-**Szumus/Szumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer 🎨💻 | Game Dev Enthusiast 🎮 | Gamer 🎮 **
 
-Here are some ideas to get you started:
+Primarily focused on **frontend development** 🧑‍💻✨  
+I enjoy building modern, responsive user interfaces and interactive applications 🚀  
+Constantly learning, experimenting with ideas, and turning them into real projects 💡🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- JavaScript / **TypeScript** ⚛️📘  
+- **React**, Next.js 🌐  
+- **React Native**, Expo 📱  
+- **Electron** 🖥️  
+- **SQL** 🗄️  
+- **C#** 🎯  
+
+---
+
+### 🎯 Interests
+- Frontend development 🎨  
+- Mobile & desktop apps 📱🖥️  
+- Game development 🕹️  
+- Personal projects & learning 🚀  
+
+---
+
+
+
+
+### 📫 Contact
+🌐 Website — *Coming soon* ⏳  
+📧 Email — smrozek.office@gmail.com
+💻 Discord — szymus_666
+
+Give me ⭐!
