@@ -32,6 +32,7 @@ Constantly learning, experimenting with ideas, and turning them into real projec
 ### 📫 Contact
 🌐 Website — *Coming soon* ⏳  
 📧 Email — smrozek.office@gmail.com
+
 💻 Discord — szymus_666
 
 Give me ⭐!
