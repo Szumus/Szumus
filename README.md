@@ -14,7 +14,8 @@ Constantly learning, experimenting with ideas, and turning them into real projec
 - **React Native**, Expo 📱  
 - **Electron** 🖥️  
 - **SQL** 🗄️  
-- **C#** 🎯  
+- **C#** 🎯
+- **Unity** 🎮
 
 ---
 
